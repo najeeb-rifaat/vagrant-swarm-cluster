@@ -1,4 +1,4 @@
-# Vagrant testing swarm cluster
+# Docker Swarm Cluster for testing (built with Vagrant)
 
 Fully configurable manager/workers docker swarm VMs setup, included is a portainer stack yml if needed deployment
 
